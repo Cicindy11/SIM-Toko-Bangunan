@@ -1,0 +1,41 @@
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\SIM Toko Bangunan.exe.config
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\SIM Toko Bangunan.exe
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\SIM Toko Bangunan.pdb
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Form1.resources
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Menu.resources
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Pegawai.resources
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Properties.Resources.resources
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.exe
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.pdb
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\DatabaseTOBA.accdb
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csproj.CopyComplete
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Stok.resources
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csprojAssemblyReference.cache
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.exe
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.pdb
+R:\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\DatabaseTOBA.accdb
+R:\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\SIM Toko Bangunan.exe.config
+R:\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\SIM Toko Bangunan.exe
+R:\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\SIM Toko Bangunan.pdb
+R:\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\FontAwesome.Sharp.dll
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Form1.resources
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Menu.resources
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Pegawai.resources
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Properties.Resources.resources
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Stok.resources
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csproj.GenerateResource.cache
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csproj.CoreCompileInputs.cache
+R:\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM Toko Bangunan.csproj.CopyComplete
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.Kasir.resources
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\database.mdb
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\DatabaseTOBADataSet.Designer.cs
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\DatabaseTOBADataSet.xsc
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\DatabaseTOBADataSet.xsd
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\bin\Debug\DatabaseTOBADataSet.xss
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.JenisBarang.resources
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.subpegawai.resources
+C:\Users\acer\source\repos\SIM Toko Bangunan\SIM Toko Bangunan\obj\Debug\SIM_Toko_Bangunan.About.resources
